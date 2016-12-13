@@ -1,0 +1,32 @@
+.wrap {
+	width: 800px;
+	height: 500px;
+}
+div {
+	border: 1px black solid;
+	display: inline-block;
+	font-size: 0;
+}
+.blue,.green {
+	height: 200px;
+	width: 50%;
+}
+.grey,.black,.orange {
+	height: 300px;
+	width: 33.33%;
+}
+.green {
+	background-color: #3D7900;
+}
+.blue {
+	background-color: #0048FB;
+}
+.grey {
+	background-color: #808080;
+}
+.black {
+	background-color: #000000;
+}
+.orange {
+	background-color: #F3A633;
+}
